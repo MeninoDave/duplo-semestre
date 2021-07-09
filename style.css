@@ -9,6 +9,9 @@ body{
     text-align: center;
     font-size: large;
 }
+h1{
+    font-size:75px;
+}
 
 .clearfix{
     size: 20px;
@@ -19,4 +22,10 @@ body{
 }
 .card-text{
     color: rgb(40, 40, 65);
+}
+
+.Fim{
+    background-color: floralwhite;
+    color: black;
+    text-align: center;
 }
