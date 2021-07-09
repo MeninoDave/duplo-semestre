@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(40, 40, 65);
+    color:floralwhite;
+}
+
+.Titulo{
+    color: black;
+    background-color: floralwhite;
+    text-align: center;
+    font-size: large;
+}
+
+.clearfix{
+    size: 20px;
+}
+
+.card-title{
+    color: rgb(40, 40, 65);
+}
+.card-text{
+    color: rgb(40, 40, 65);
+}
