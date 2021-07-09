@@ -24,6 +24,10 @@ h1{
     color: rgb(40, 40, 65);
 }
 
+.back{
+    text-align: center;
+}
+
 .Fim{
     background-color: floralwhite;
     color: black;
